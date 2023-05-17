@@ -1,4 +1,4 @@
-##System Waxa U Qabanay kow horta inan Managemgareyso dhaman Hoowlaha Isbilak sida in shaqalaha la diiwan galiyo inan bukaamadana lala socdo Xalahooda, sidokale waxad helaysa daily report.
+#System Waxa U Qabanay kow horta inan Managemgareyso dhaman Hoowlaha Isbilak sida in shaqalaha la diiwan galiyo inan bukaamadana lala socdo Xalahooda, sidokale waxad helaysa daily report.
 
 #Luuqadaha an istimaalney waxa ka mid ah.
 
