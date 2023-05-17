@@ -23,3 +23,12 @@
 [TAILWINDCSS documentation](https://tailwindcss.com/docs/installation)
 
 #Hada Aniga kuman ahay waxan ahay fullstack web developer waliba mid jounier ah. macagaceygu waa Omar jibril Abdulkadir.
+
+
+```php
+function SaySomething($message= 'Asc Engr'){
+    console.log($message);
+}
+saySomething('Omar');
+```
+<p>the output of above code is Asc Engr Omar</p>
