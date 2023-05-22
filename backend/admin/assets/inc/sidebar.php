@@ -275,7 +275,7 @@
                                 </ul>
                             </li>
 
-                            <li>
+                            <!-- <li>
                                 <a href="javascript: void(0);">
                                     <i class="fas fa-user-tag"></i>
                                     <span> Vendors </span>
@@ -290,8 +290,8 @@
                                     </li>
                                     
                                 </ul>
-                            </li>
-                            <li>
+                            </li> -->
+                            <!-- <li>
                                 <a href="javascript: void(0);">
                                     <i class="fas fa-lock"></i>
                                     <span> Password Resets </span>
@@ -303,7 +303,7 @@
                                     </li>
                                                                         
                                 </ul>
-                            </li>
+                            </li> -->
 
                         </ul>
 
